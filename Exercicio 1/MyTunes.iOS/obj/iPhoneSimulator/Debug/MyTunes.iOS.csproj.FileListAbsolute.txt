@@ -1,0 +1,14 @@
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\bin\iPhoneSimulator\Debug\MyTunesiOS.exe
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\bin\iPhoneSimulator\Debug\MyTunesiOS.pdb
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunes.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunes.iOS.csproj.CopyComplete
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunesiOS.exe
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 1\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunesiOS.pdb

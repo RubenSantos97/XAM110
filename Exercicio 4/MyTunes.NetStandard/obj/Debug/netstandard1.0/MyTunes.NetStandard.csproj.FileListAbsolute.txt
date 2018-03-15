@@ -1,0 +1,4 @@
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 4\MyTunes.NetStandard\obj\Debug\netstandard1.0\MyTunes.NetStandard.csprojResolveAssemblyReference.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 4\MyTunes.NetStandard\obj\Debug\netstandard1.0\MyTunes.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 4\MyTunes.NetStandard\obj\Debug\netstandard1.0\MyTunes.NetStandard.AssemblyInfoInputs.cache
+C:\Users\Ruben Santos\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM110\Exercicio 4\MyTunes.NetStandard\obj\Debug\netstandard1.0\MyTunes.NetStandard.AssemblyInfo.cs
